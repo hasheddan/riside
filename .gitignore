@@ -1,2 +1,8 @@
+# Rust
+
 /target
 Cargo.lock
+
+# Javascript
+
+node_modules
